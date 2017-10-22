@@ -1,3 +1,7 @@
+<img width="868" alt="time zone display" src="https://user-images.githubusercontent.com/29441324/31867074-b7ea1290-b73d-11e7-9243-44cd751665fa.png">
+
+
+
 # TimeZone
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
