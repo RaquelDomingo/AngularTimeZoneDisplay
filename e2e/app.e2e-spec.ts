@@ -1,10 +1,10 @@
-import { AppPage } from './app.po';
+import { UsTimezonePage } from './app.po';
 
-describe('time-zone App', () => {
-  let page: AppPage;
+describe('us-timezone App', () => {
+  let page: UsTimezonePage;
 
   beforeEach(() => {
-    page = new AppPage();
+    page = new UsTimezonePage();
   });
 
   it('should display welcome message', () => {
